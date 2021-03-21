@@ -1,0 +1,26 @@
+G;Gimnasio de Ciudad Celeste; 15; 3
+L;Misty
+P;Staryu; 50; 40; 50
+P;Starmie; 90; 50; 60
+E;Dominguera Diana
+P;Goldeen; 40; 50; 30
+P;Raticate; 30; 50; 20
+P;Haunter; 40; 60; 20
+E;Nadador Luis
+P;Horsea; 45; 30; 20
+P;Shellder; 30; 20; 45
+G;Gimnasio de Ciudad Azul; 10; 1
+L;Mirta
+P;Staryu; 50; 40; 50
+P;Starmie; 90; 50; 60
+E;Dominguera Diana
+P;Goldeen; 40; 50; 30
+E;Nadador Luis
+P;Horsea; 45; 30; 20
+P;Shellder; 30; 20; 45
+P;Squirtle;30; 20; 40
+P;Krabby; 20; 30; 20
+P;Raticate; 30; 50; 20
+P;Haunter; 40; 60; 20
+P;Primeape; 50; 60; 30
+P;Muk; 20; 40; 60
